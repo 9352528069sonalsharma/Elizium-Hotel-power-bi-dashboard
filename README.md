@@ -26,13 +26,26 @@ What is Booking Rates?
 What is cancellation rates?
 
 ## Features
-
 - Interactive dashboards for visualizing key performance indicators (KPIs).
 - Data analysis scripts for extracting, cleaning, and processing hotel-related data.
 - Customizable visualizations for different operational aspects, including occupancy rates, revenue trends, and customer feedback analysis.
 
-###Results/Findings 
+### Results/Findings 
 The analysis results are summarized as follows:
+1.The Elizium Hotel's shows noticable peak during weekends as compare to weekdays.
+2.Offline booking is more than any another platform.
+3.Mumbai is performing better in terms of revenue.
+
+### Recommendation
+Based on the analysis,we recommend the following actions:
+Focus on more bookings and services during weekends.
+Offer packages and attractive more direct bookings in the cities who generating low revenue.
+Set optimum pricing during weekdays to increase sales in weekdays also.
+
+### Limitations
+I had to remove all zeros values from revenue columns and change it into million from billion beacause they would have affected the accuracy of my conclusions from the analysis.There are 
+ 
+
 
 
   
