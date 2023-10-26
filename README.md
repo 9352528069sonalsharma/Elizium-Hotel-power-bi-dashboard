@@ -43,7 +43,7 @@ Offer packages and attractive more direct bookings in the cities who generating 
 Set optimum pricing during weekdays to increase sales in weekdays also.
 
 ### Limitations
-I had to remove all zeros values from revenue columns and change it into million from billion beacause they would have affected the accuracy of my conclusions from the analysis.There are 
+I had to remove all zeros values from revenue columns and change it into million from billion beacause they would have affected the accuracy of my conclusions from the analysis.There are still a few outliers even after the omissions but even then we can still see that there is a positive correlation between them.
  
 
 
